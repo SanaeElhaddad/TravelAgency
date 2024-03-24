@@ -16,3 +16,4 @@ D:\control.net\TravelAgencyApp\TravelAgencyApp\obj\Debug\TravelAgencyApp.Migrati
 D:\control.net\TravelAgencyApp\TravelAgencyApp\obj\Debug\TravelAgencyApp.Form1.resources
 D:\control.net\TravelAgencyApp\TravelAgencyApp\obj\Debug\TravelAgencyApp.View.GestionVoyage.resources
 D:\control.net\TravelAgencyApp\TravelAgencyApp\obj\Debug\TravelAgencyApp.View.GestionGuide.resources
+D:\control.net\TravelAgencyApp\TravelAgencyApp\obj\Debug\TravelAgencyApp.View.TravelAgency.resources
